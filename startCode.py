@@ -2,7 +2,7 @@
 # command to run website: flask --app startCode run
 
 # Import the Flask class
-from flask import Flask, render_template
+from flask import Flask, render_template 
 
 # Create a new Flask web app
 # __name__ is a special Python variable that tells Flask which file is being run
